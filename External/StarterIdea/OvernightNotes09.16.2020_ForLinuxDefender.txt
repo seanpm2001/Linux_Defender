@@ -1,0 +1,4 @@
+Linux Defender - All-in-one Anti-virus for Linux. Mail server component: $sh .install(clamshellAV); // but with actual Shell syntax
+Dir:
+MailServer/3rdParty/ClamshellAV/Install
+ClamShellAV/Docs/*.pdf
