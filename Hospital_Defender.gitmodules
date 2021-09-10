@@ -1,0 +1,4 @@
+# A packaged distribution designed specifically for hospitals and medical centers
+[submodule "Seanpm2001/Hospital-defender]
+	path = Linux_Defender/Medical/Hospital-Defender/
+	url = https://github.com/seanpm2001/Hospital-Defender/
