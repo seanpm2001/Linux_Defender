@@ -1,0 +1,5 @@
+# Go to the Raspberry Pi Linux defender port repository.
+[submodule "Seanpm2001/Linux_Defender_For_Raspberry_Pi" ]
+	path = /RaspberryPi/.gitmodules
+	url = https://github.com/seanpm2001/Linux_Defender_For_Raspberry_Pi
+# File version: 1 (2022, Sunday, Februasry 20th at 7:22 pm)
