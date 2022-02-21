@@ -1,0 +1,26 @@
+
+---
+
+{{int:version-credits-summary}}
+Seanpm2001/Linux_Defender is a collaborative project released under the GNU General Public License v3. We would like to recognize the following names for their contribution to the product.
+
+This comment block and this file (excluding author names) was modified from MediaWiki/CREDITS -->
+
+== Maintainers ==
+<!-- BEGIN MAINTAINERS LIST !-->
+
+1. @seanpm2001 - Creator and primary maintainer of Linux Defender
+2. No other contributors as of 2022 Sunday, Februayr 20th
+
+== Contributors ==
+<!-- BEGIN CONTRIBUTOR LIST -->
+1. @seanpm2001
+2. @python (for the Python programming language)
+3. @bash (for the bash Shell)
+4. @torvalds (for creating Linux)
+5. @microsoft (for creating Windows Defender)
+6. @latex (for creating TeX and BibTeX)
+7. @kde (for creating the K Desktop Environment)
+8. No other contributors as of 2022, Sunday, February 20th
+
+---
