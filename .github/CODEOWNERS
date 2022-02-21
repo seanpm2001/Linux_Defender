@@ -3,7 +3,7 @@
 # @seanpm2001 is the global code owner for this project
 /// @seanpm2001
 // @seanpm2001
-/ @seanpm2001
+# / @seanpm2001
 /* @seanpm2001
 * @seanpm2001
 # Directories at root
@@ -189,6 +189,6 @@ makefile.mk @seanpm2001
 
 # File info
 # File type: codeowners file (CODEOWNERS)
-# File version: 1 (2022, Sunday, February 20th at 8:33 pm)
+# File version: 2 (2022, Monday, February 21st at 3:05 pm)
 # Line count (including blank lines and compiler line): 195
 # End of script
