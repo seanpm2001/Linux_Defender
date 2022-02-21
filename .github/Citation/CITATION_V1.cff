@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this software (Linux Defender anti-virus) please cite it below."
+# preferred-citation:
+  # type: data
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Linux_Defender"
+version: 1.0.0
+# doi: 10.5281/zenodo.1234
+date-released: 2021-12-25
+url: "https://github.com/seanpm2001/Linux_Defender"
+cff-version: 1.2.0
+message: "If you use this software (Linux Defender anti-virus) please cite it below"
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Linux Defender, anti-virus for Linux & UNIX"
+version: 2.0.4
+doi: 10.5281/zenodo.1234
+date-released: 2021-12-25
+url: "https://github.com/seanpm2001/Linux_Defender
+preferred-citation:
+  type: data
+  authors:
+  - family-names: "Myrick family"
+    given-names: "Sean P. Myrick"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  doi: "10.0000/00000"
+  journal: "Journal Title"
+  month: 1
+  start: 1 # First page number
+  end: 100000 # Last page number
+  title: "Linux Defender, anti-virus for Linux & UNIX. If you use this anti-virus, please cite it below"
+  issue: 1
+  volume: 1
+  year: 2020
+# File info
+# File version: 1 (2022, Sunday, February 20th at 7:50 pm)
+# File type: CFF Citation file (*.cff)
+# Line count (including blank lines and compiler line): 44
