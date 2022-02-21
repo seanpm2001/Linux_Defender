@@ -21,7 +21,7 @@ title: "Linux Defender, anti-virus for Linux & UNIX"
 version: 2.0.4
 doi: 10.5281/zenodo.1234
 date-released: 2021-12-25
-url: "https://github.com/seanpm2001/Linux_Defender
+url: "https://github.com/seanpm2001/Linux_Defender"
 preferred-citation:
   type: data
   authors:
@@ -38,6 +38,6 @@ preferred-citation:
   volume: 1
   year: 2020
 # File info
-# File version: 1 (2022, Sunday, February 20th at 7:50 pm)
+# File version: 2 (2022, Sunday, February 20th at 7:52 pm)
 # File type: CFF Citation file (*.cff)
 # Line count (including blank lines and compiler line): 44
