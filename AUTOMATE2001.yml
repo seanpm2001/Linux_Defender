@@ -1,0 +1,13 @@
+# A set of tasks for the Automate2001 bot to perform here
+automate2001_tasks:
+isAlldone: "False"
+-
+Automate-All-ContributorSrc:
+-
+Automate-Pull-Requests-archival
+isAdone: "False"
+Automate-Index-file
+isBdone: "False"
+Automate-Issue-archival
+isCdone: "False"
+# File version: 1 (2022, Tuesday, February 22nd at 7:17 pm)
