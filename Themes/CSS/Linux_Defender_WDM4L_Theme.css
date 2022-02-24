@@ -1,0 +1,160 @@
+/* Start of script */
+/* The default theme for Linux Defender, meant to look similarly to Windows defender */
+/* WDM4L = Windows Defender Mode for Linux */
+/* This version is made using CSS. Support for SCSS, SASS, Less, and QML is coming at a later point */
+/* This is my first attempt at advanced CSS. There may be errors that need to be fixed */
+/* This script is currently highly incomplete */
+
+/* The stylesheet is available in 7 modes: */
+/* w5xp (Windows XP Service Pack 2-3) */
+/* w6 (Windows Vista) */
+/* w7 (Windows 7) */
+/* w80 (Windows 8) */
+/* w81 (Windows 8.1) */
+/* w10 (Windows 10) */
+/* w11 (Windows 11) */
+/* Each mode has submodes, according to the Windows themes in these releases. */
+
+/* Windows XP mode (w5xp) */
+.w5xptitlebar {
+  color: { $luna $olive $silver $zune $wclassic }
+  font-family: "Tahoma"; /* This font ships separately, due to copyright issues */
+}
+.w5xp_pane_home {
+  /* Coming soon */
+}
+.w5xp_pane_update {
+  /* Coming soon */
+}
+.w5xp_pane_history {
+  /* Coming soon */
+}
+/* Windows Vista mode (w6) */
+.w6titlebar {
+  color: system;
+  font-family: "Liberation Serif";
+}
+.w5xpnavigationPane {
+  items: { .w5xp_pane_home .w5xp_pane_update .w5xp_pane_history }
+  font-family: system;
+  color: 
+}
+.w6_pane_home {
+  /* Coming soon */
+}
+.w6_pane_update {
+  /* Coming soon */
+}
+.w6_pane_history {
+  /* Coming soon */
+}
+.w6navigationPane {
+  items: { .w6_pane_home .w6_pane_update .w6_pane_history }
+  font-family: system;
+  color: system;
+}
+.w6pnavigationPane {
+  items: { .w6_pane_home .w6_pane_update .w6_pane_history }
+  font-family: system;
+  color: 
+}
+/* Windows 7 mode (w7) */
+.w7titlebar {
+  color: system;
+  font-family: "Liberation Serif";
+}
+.w7_pane_home {
+  /* Coming soon */
+}
+.w7_pane_update {
+  /* Coming soon */
+}
+.w7_pane_history {
+  /* Coming soon */
+}
+.w7navigationPane {
+  items: { .w7_pane_home .w7_pane_update .w7_pane_history }
+  font-family: system;
+  color: 
+}
+/* Windows 8 mode (w80) */
+.w80titlebar {
+  color: system;
+  font-family: "Liberation Serif";
+}
+.w80_pane_home {
+  /* Coming soon */
+}
+.w80_pane_update {
+  /* Coming soon */
+}
+.w80_pane_history {
+  /* Coming soon */
+}
+.w80navigationPane {
+  items: { .w80_pane_home .w80_pane_update .w80_pane_history }
+  font-family: system;
+  color: 
+}
+/* Windows 8.1 mode (w81) */
+.w81titlebar {
+  color: system;
+  font-family: "Liberation Serif";
+}
+.w81_pane_home {
+  /* Coming soon */
+}
+.w81_pane_update {
+  /* Coming soon */
+}
+.w81_pane_history {
+  /* Coming soon */
+}
+.w81navigationPane {
+  items: { .w81_pane_home .w81_pane_update .w81_pane_history }
+  font-family: system;
+  color: 
+}
+/* Windows 10 mode (w10) */
+.w10titlebar {
+  color: system;
+  font-family: "Liberation Serif";
+}
+.w10_pane_home {
+  /* Coming soon */
+}
+.w10_pane_update {
+  /* Coming soon */
+}
+.w10_pane_history {
+  /* Coming soon */
+}
+.w10navigationPane {
+  items: { .w10_pane_home .w10_pane_update .w10_pane_history }
+  font-family: system;
+  color: 
+}
+/* Windows 11 mode (w11) */
+.w11titlebar {
+  color: system;
+  font-family: "Liberation Serif";
+}
+.w11_pane_home {
+  /* Coming soon */
+}
+.w11_pane_update {
+  /* Coming soon */
+}
+.w11_pane_history {
+  /* Coming soon */
+}
+.w11navigationPane {
+  items: { .w11_pane_home .w11_pane_update .w11_pane_history }
+  font-family: system;
+  color: 
+}
+/* File info */
+/* File type: CSS Stylesheet (*.css) */
+/* File version: 1 (2022, Wednesday, February 23rd at 6:48 pm) */
+/* Line count (Including blank lines and compiler line): 161 */
+/* End of script */
